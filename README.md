@@ -1,2 +1,2 @@
 **computer-vision-models**  
-This repository shows several convolution neural network models implemented in tensorflow keras.
+This repository contains several convolution neural network models which I implemented in tensorflow keras.
